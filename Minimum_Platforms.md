@@ -13,6 +13,8 @@ Output: 3
 Explanation: 
 Minimum 3 platforms are required to 
 safely arrive and depart all trains.
+
+
 Example 2:
 
 Input: n = 3
