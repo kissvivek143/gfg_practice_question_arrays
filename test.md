@@ -1,6 +1,6 @@
 ## code block
 
-'''java
+'''javascript
 
 System.out.println("hello");
 
