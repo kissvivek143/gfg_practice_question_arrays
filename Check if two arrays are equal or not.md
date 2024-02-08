@@ -17,12 +17,9 @@ Example 1:
 Input:
 N = 5
 
-
 A[] = {1,2,5,4,0}
 
-
 B[] = {2,4,5,0,1}
-
 
 Output: 1
 Explanation: Both the array can be 
@@ -35,12 +32,9 @@ Example 2:
 Input:
 N = 3
 
-
 A[] = {1,2,5}
 
-
 B[] = {2,4,15}
-
 
 Output: 0
 Explanation: A[] and B[] have only 
@@ -48,7 +42,6 @@ one common value.
 
 
 Expected Time Complexity : O(N)
-
 
 Expected Auxilliary Space : O(N)
 
